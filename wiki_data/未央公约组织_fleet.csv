@@ -1,36 +1,37 @@
-ID,Ship_Name,Star_Rating,Type,Weapon_Type,Attack_Attribute,Key_Skills,Acquisition,Position,Notes
-1,KCCPV2.0-轻型载机巡洋舰,1星,巡洋舰,飞行器,特殊,重点出击、反击防空,常驻,后排,未央公约组织基础巡洋舰
-2,KCCPV2.0-轻型攻击巡洋舰,1星,巡洋舰,鱼雷/导弹,实弹,周期集火、反击防空,常驻,后排,投射型攻击
-3,CV-II003型-轻型护航艇,1星,护航艇,火炮,实弹,优势输出、强化干扰、反击防空、独立作战,其他,基础护航
-4,CAS066级-通用巡洋舰,1星,巡洋舰,导弹,实弹,防空协助、快速输出、暴击、反击防空,前排,通用型
-5,FG300型-装甲护卫舰,1星,护卫舰,火炮,实弹,系统自维修,前排,坦克型护卫舰
-6,X20-大型工程舰,1星,工程舰,火炮,实弹,周期集火、反击防空,后排,大型工程/资源舰
-7,X8-小型工程舰,1星,工程舰/登陆舰,火炮,实弹,周期集火、反击防空,后排,小型工程/登陆
-8,FG300型-侦察护卫舰,1星,护卫舰,火炮,实弹,快速输出,中排,侦察型
-9,X10-中型工程舰,1星,工程舰,火炮,实弹,周期集火、反击防空,后排,中型工程
-10,FG300型-多用途护卫舰,1星,护卫舰,火炮,实弹,快速输出、反击防空,中排,多用途护卫
-11,BR050-标准轰炸机,2星,战机,鱼雷,实弹,往复打击、攻击系统、系统自维修,其他,标准轰炸机
-12,BR050-多用途轰炸机,2星,战机,鱼雷,实弹,往复打击、降低舰载机命中、攻击系统、系统自维修,其他,多用途轰炸
-13,BR050-鱼雷轰炸机,2星,战机,鱼雷,实弹,往复打击、持续伤害、系统自维修,其他,鱼雷轰炸
-14,AT021-战术攻击机,2星,战机,火炮,实弹,失效调节、反击防空,其他,战术攻击机
-15,AT021-重型攻击机,2星,战机,导弹,实弹,多目标策略、精准系统攻击,其他,重型攻击机
-16,AT021-脉冲攻击机,2星,战机,脉冲炮,能量,快速输出、延后出击、反击防空,其他,脉冲攻击机
-17,CAS066级-支援巡洋舰,2星,巡洋舰,火炮,实弹,防空协助、加速维修、反击防空,中排,支援型巡洋
-18,CV-M011型-高速导弹艇,2星,护航艇,导弹,实弹,稳定射击、强化干扰、防空支援、独立作战,其他,高速导弹艇
-19,CV-M011型-重型导弹艇,2星,护航艇,导弹,实弹,防空反应、强化干扰、反击防空、独立作战,其他,重型导弹艇
-20,CV-M011型-重炮艇,2星,护航艇,火炮,实弹,防空反应、强化干扰、反击防空、独立作战,其他,重炮艇
-21,AC721-TE-重型离子炮驱逐舰,2星,驱逐舰,离子炮,能量,快速输出,中排,TE重型离子炮驱逐
-22,AC721-重型离子炮驱逐舰,2星,驱逐舰,离子炮,能量,快速输出,中排,重型离子炮驱逐
-23,AC721-重型运载驱逐舰,2星,驱逐舰,火炮,实弹,装填优化I、快速输出,中排,重型运载驱逐
-24,AC721-重型两栖突击舰,2星,驱逐舰,飞行器,未定,机动规避、防空协助,后排,重型两栖突击
-25,AC721-重型导弹驱逐舰,2星,驱逐舰,导弹,实弹,舰队集火、防空协助、快速输出、协同作战、防空支援,后排,重型导弹驱逐
-26,CV-T800型-脉冲炮艇,3星,护航艇,脉冲炮,能量,快速输出、主动防空、独立作战,其他,脉冲炮艇
-27,CV3000级-快速航空母舰,4星,航空母舰,飞行器,未定,战略打击I、战略打击III、舰队集火、机动规避,后排,快速航母
-28,XT-20级-护航巡洋舰,5星,巡洋舰,飞行器,未定,战略打击II,后排,护航巡洋舰
-29,XT-20级-载机巡洋舰,5星,巡洋舰,飞行器,未定,战略打击II、反击防空,后排,载机巡洋舰
-30,AC720-艾格勒姆未名者,6星,驱逐舰/英雄舰,火炮,实弹,舰队集火、新希望大救援、防空协助、机动规避、反击防空,中排,英雄舰/艾格勒姆未名者
+ID,Ship_Name,Star_Rating,Type,Weapon_Type,Attack_Attribute,Key_Skills,Acquisition,Position,Structure_Value,Resistance_or_Armor,Shield,Speed_Cruise,Speed_Curvature,Build_Metal,Build_Crystal,Build_Heavy_Hydrogen,Firepower_vs_Ship,Firepower_vs_Air,Siege_Firepower,Command_Value,Service_Limit,Notes
+1,KCCPV2.0-轻型载机巡洋舰,1星,巡洋舰,飞行器,特殊,重点出击、反击防空,常驻,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,基础巡洋舰
+2,KCCPV2.0-轻型攻击巡洋舰,1星,巡洋舰,鱼雷/导弹,实弹,周期集火、反击防空,常驻,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,投射攻击型
+3,CV-II003型-轻型护航艇,1星,护航艇,火炮,实弹,优势输出、强化干扰、反击防空、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,基础护航
+4,CAS066级-通用巡洋舰,1星,巡洋舰,导弹,实弹,防空协助、快速输出、暴击、反击防空,前排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,通用型
+5,FG300型-装甲护卫舰,1星,护卫舰,火炮,实弹,系统自维修,前排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,坦克护卫舰
+6,X20-大型工程舰,1星,工程舰,火炮,实弹,周期集火、反击防空,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,大型工程舰
+7,X8-小型工程舰,1星,工程舰/登陆舰,火炮,实弹,周期集火、反击防空,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,小型工程/登陆
+8,FG300型-侦察护卫舰,1星,护卫舰,火炮,实弹,快速输出,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,侦察型
+9,X10-中型工程舰,1星,工程舰,火炮,实弹,周期集火、反击防空,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,中型工程
+10,FG300型-多用途护卫舰,1星,护卫舰,火炮,实弹,快速输出、反击防空,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,多用途
+11,BR050-标准轰炸机,2星,战机,鱼雷,实弹,往复打击、攻击系统、系统自维修,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,标准轰炸机
+12,BR050-多用途轰炸机,2星,战机,鱼雷,实弹,往复打击、降低舰载机命中、攻击系统、系统自维修,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,多用途轰炸
+13,BR050-鱼雷轰炸机,2星,战机,鱼雷,实弹,往复打击、持续伤害、系统自维修,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,鱼雷轰炸
+14,AT021-战术攻击机,2星,战机,火炮,实弹,失效调节、反击防空,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,战术攻击机
+15,AT021-重型攻击机,2星,战机,导弹,实弹,多目标策略、精准系统攻击,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型攻击机
+16,AT021-脉冲攻击机,2星,战机,脉冲炮,能量,快速输出、延后出击、反击防空,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,脉冲攻击机
+17,CAS066级-支援巡洋舰,2星,巡洋舰,火炮,实弹,防空协助、加速维修、反击防空,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,支援巡洋
+18,CV-M011型-高速导弹艇,2星,护航艇,导弹,实弹,稳定射击、强化干扰、防空支援、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,高速导弹艇
+19,CV-M011型-重型导弹艇,2星,护航艇,导弹,实弹,防空反应、强化干扰、反击防空、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型导弹艇
+20,CV-M011型-重炮艇,2星,护航艇,火炮,实弹,防空反应、强化干扰、反击防空、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重炮艇
+21,AC721-TE-重型离子炮驱逐舰,2星,驱逐舰,离子炮,能量,快速输出,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TE离子炮驱逐
+22,AC721-重型离子炮驱逐舰,2星,驱逐舰,离子炮,能量,快速输出,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型离子炮驱逐
+23,AC721-重型运载驱逐舰,2星,驱逐舰,火炮,实弹,装填优化I、快速输出,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型运载驱逐
+24,AC721-重型两栖突击舰,2星,驱逐舰,飞行器,未定,机动规避、防空协助,后排,32266 (+7%实战/+5%调校),20,2.0% (+5%调校,恒星辐射-90%),800,4000,20170,1930,890,1200 (+5%),322 (+5%),181 (+5%),12,15,长度560米；性能：对舰C/防空C/攻城C/支援A/生存B/战略B；技能：防空协助、机动规避
+25,AC721-重型导弹驱逐舰,2星,驱逐舰,导弹,实弹,舰队集火、防空协助、快速输出、协同作战、防空支援,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型导弹驱逐
+26,CV-T800型-脉冲炮艇,3星,护航艇,脉冲炮,能量,快速输出、主动防空、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,脉冲炮艇
+27,CV3000级-快速航空母舰,4星,航空母舰,飞行器,未定,战略打击I、战略打击III、舰队集火、机动规避,后排,278340 base (+4460 peak + enhancements),120 (resistance),15.0% (shield),400 (cruise),2000 (curvature),TBD,TBD,TBD,6500 vs ships (+15% enhancements),297 vs air,619 siege,TBD,TBD,携带5重型战机编队 + 3炮艇；模块系统M1-M4/A1-A2/B1-B4；旗舰技能
+28,XT-20级-护航巡洋舰,5星,巡洋舰,飞行器,未定,战略打击II,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,护航巡洋舰
+29,XT-20级-载机巡洋舰,5星,巡洋舰,飞行器,未定,战略打击II、反击防空,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,载机巡洋舰
+30,AC720-艾格勒姆未名者,6星,驱逐舰/英雄舰,火炮,实弹,舰队集火、新希望大救援、防空协助、机动规避、反击防空,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,英雄舰；起源盘古拓展集团；特殊任务/肝取；高战略价值
 
-# 数据来源：无尽的拉格朗日 Wiki - 舰船蓝图一览 (https://wiki.biligame.com/wjdlglr/%E8%88%B0%E8%88%B9%E5%9B%BE%E9%89%B4)
-# 仅限明确标注“未央公约组织”的舰船。星级1-6星覆盖基础到英雄舰。
-# 详细数值属性（结构值/装甲/航速/火力/冷却/闪避/模块/资源消耗）需进一步浏览单个舰船页面提取。
-# 可用于小说中华国开拓者通过开箱/奖励获取的初始/主力舰队参考。
+# 更新说明：新增详细数值列（Structure_Value, Resistance_or_Armor, Shield, Speed_Cruise, Speed_Curvature, Build resources, Firepower categories, Command_Value 等）。
+# 已填充 AC721-重型两栖突击舰 (完整提取) 和 CV3000级-快速航空母舰 (部分数值) 的数据。
+# 其他舰船为 TBD，需进一步浏览单个页面补充。
+# 数据来源：无尽的拉格朗日 Wiki 单个舰船页面 + 蓝图一览。
+# 适用于小说数据面板追踪：建造成本、战斗属性、升级潜力（主角融合可提升数值或添加特殊效果）。

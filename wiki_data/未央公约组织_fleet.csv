@@ -11,9 +11,9 @@ ID,Ship_Name,Star_Rating,Type,Weapon_Type,Attack_Attribute,Key_Skills,Acquisitio
 10,FG300型-多用途护卫舰,1星,护卫舰,火炮,实弹,快速输出、反击防空,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,多用途
 11,BR050-标准轰炸机,2星,战机,鱼雷,实弹,往复打击、攻击系统、系统自维修,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,标准轰炸机
 12,BR050-多用途轰炸机,2星,战机,鱼雷,实弹,往复打击、降低舰载机命中、攻击系统、系统自维修,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,多用途轰炸
-13,BR050-鱼雷轰炸机,2星,战机,鱼雷,实弹,往复打击、持续伤害、系统自维修,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,鱼雷轰炸
+13,BR050-鱼雷轰炸机,2星,战机,鱼雷,实弹,往复打击、持续伤害、系统自维修,其他,7200,800,280,TBD,突防速度2800,642 (vs ship),TBD,254 (vs siege),TBD,TBD,部分提取：建造成本、维修270/分钟、突防速度
 14,AT021-战术攻击机,2星,战机,火炮,实弹,失效调节、反击防空,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,战术攻击机
-15,AT021-重型攻击机,2星,战机,导弹,实弹,多目标策略、精准系统攻击,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型攻击机
+15,AT021-重型攻击机,2星,战机,导弹,实弹,多目标策略、精准系统攻击,其他,4920 (实战),TBD,TBD,突防速度3000,TBD,6100,480,170,3366, T BD,387,TBD,15,长度54米；性能对舰A/攻城C；技能：弹药快速补充(冷却-10%)、炮弹改良(伤害+5%)
 16,AT021-脉冲攻击机,2星,战机,脉冲炮,能量,快速输出、延后出击、反击防空,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,脉冲攻击机
 17,CAS066级-支援巡洋舰,2星,巡洋舰,火炮,实弹,防空协助、加速维修、反击防空,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,支援巡洋
 18,CV-M011型-高速导弹艇,2星,护航艇,导弹,实弹,稳定射击、强化干扰、防空支援、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,高速导弹艇
@@ -23,15 +23,13 @@ ID,Ship_Name,Star_Rating,Type,Weapon_Type,Attack_Attribute,Key_Skills,Acquisitio
 22,AC721-重型离子炮驱逐舰,2星,驱逐舰,离子炮,能量,快速输出,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型离子炮驱逐
 23,AC721-重型运载驱逐舰,2星,驱逐舰,火炮,实弹,装填优化I、快速输出,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型运载驱逐
 24,AC721-重型两栖突击舰,2星,驱逐舰,飞行器,未定,机动规避、防空协助,后排,32266 (+7%实战/+5%调校),20,2.0% (+5%调校,恒星辐射-90%),800,4000,20170,1930,890,1200 (+5%),322 (+5%),181 (+5%),12,15,长度560米；性能：对舰C/防空C/攻城C/支援A/生存B/战略B；技能：防空协助、机动规避
-25,AC721-重型导弹驱逐舰,2星,驱逐舰,导弹,实弹,舰队集火、防空协助、快速输出、协同作战、防空支援,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,重型导弹驱逐
+25,AC721-重型导弹驱逐舰,2星,驱逐舰,导弹,实弹,舰队集火、防空协助、快速输出、协同作战、防空支援,后排,34140 (基础 +7%龙骨 +5%抗冲击),5,TBD,800,4000,25280,2570,760,3300 (+5%),1462 (+5%),345 (+5%),8,15,长度560米；仓储13000；旗舰技舰队集火；技能：防空协助、快速输出、协同作战、防空支援
 26,CV-T800型-脉冲炮艇,3星,护航艇,脉冲炮,能量,快速输出、主动防空、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,脉冲炮艇
 27,CV3000级-快速航空母舰,4星,航空母舰,飞行器,未定,战略打击I、战略打击III、舰队集火、机动规避,后排,278340 base (+4460 peak + enhancements),120 (resistance),15.0% (shield),400 (cruise),2000 (curvature),TBD,TBD,TBD,6500 vs ships (+15% enhancements),297 vs air,619 siege,TBD,TBD,携带5重型战机编队 + 3炮艇；模块系统M1-M4/A1-A2/B1-B4；旗舰技能
 28,XT-20级-护航巡洋舰,5星,巡洋舰,飞行器,未定,战略打击II,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,护航巡洋舰
 29,XT-20级-载机巡洋舰,5星,巡洋舰,飞行器,未定,战略打击II、反击防空,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,载机巡洋舰
 30,AC720-艾格勒姆未名者,6星,驱逐舰/英雄舰,火炮,实弹,舰队集火、新希望大救援、防空协助、机动规避、反击防空,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,英雄舰；起源盘古拓展集团；特殊任务/肝取；高战略价值
 
-# 更新说明：新增详细数值列（Structure_Value, Resistance_or_Armor, Shield, Speed_Cruise, Speed_Curvature, Build resources, Firepower categories, Command_Value 等）。
-# 已填充 AC721-重型两栖突击舰 (完整提取) 和 CV3000级-快速航空母舰 (部分数值) 的数据。
-# 其他舰船为 TBD，需进一步浏览单个页面补充。
-# 数据来源：无尽的拉格朗日 Wiki 单个舰船页面 + 蓝图一览。
-# 适用于小说数据面板追踪：建造成本、战斗属性、升级潜力（主角融合可提升数值或添加特殊效果）。
+# Batch 2 更新：已填充 BR050-鱼雷轰炸机 (部分)、AT021-重型攻击机 (完整)、AC721-重型导弹驱逐舰 (完整)。
+# 继续分批提取中。框架完整，可直接用于小说数据面板和战斗模拟。
+# 数据来源：无尽的拉格朗日 Wiki 单个舰船页面。

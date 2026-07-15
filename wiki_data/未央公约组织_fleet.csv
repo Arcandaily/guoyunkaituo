@@ -1,9 +1,9 @@
 ID,Ship_Name,Star_Rating,Type,Weapon_Type,Attack_Attribute,Key_Skills,Acquisition,Position,Structure_Value,Resistance_or_Armor,Shield,Speed_Cruise,Speed_Curvature,Build_Metal,Build_Crystal,Build_Heavy_Hydrogen,Firepower_vs_Ship,Firepower_vs_Air,Siege_Firepower,Command_Value,Service_Limit,Notes
-1,KCCPV2.0-轻型载机巡洋舰,1星,巡洋舰,飞行器,特殊,重点出击、反击防空,常驻,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,基础巡洋舰
+1,KCCPV2.0-轻型载机巡洋舰,1星,巡洋舰,飞行器,特殊,重点出击、反击防空,常驻,后排,52040 (实战 +5%),50,10.0%,650,3250,49310,5370,2950 (rare mineral),5014 (+5% x2),930 (+5% x2),464 (+5% x2),16,12,长度800米；仓储22000；性能对舰C/防空B/攻城C/支援B/生存C/战略B；技能重点出击、反击防空；支援-火力支援
 2,KCCPV2.0-轻型攻击巡洋舰,1星,巡洋舰,鱼雷/导弹,实弹,周期集火、反击防空,常驻,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,投射攻击型
 3,CV-II003型-轻型护航艇,1星,护航艇,火炮,实弹,优势输出、强化干扰、反击防空、独立作战,其他,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,基础护航
 4,CAS066级-通用巡洋舰,1星,巡洋舰,导弹,实弹,防空协助、快速输出、暴击、反击防空,前排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,通用型
-5,FG300型-装甲护卫舰,1星,护卫舰,火炮,实弹,系统自维修,前排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,坦克护卫舰
+5,FG300型-装甲护卫舰,1星,护卫舰,火炮,实弹,系统自维修,前排,12540 (实战 +10% initial/+5% full),15,-- (+5% tuning, stellar radiation -90%),900,4500,10500,670,140,1028 (+5%),1330 (+5%),216 (+5%),3,15,长度250米；仓储1500；性能对舰C/防空C/攻城C/生存A/战略B；技能系统自维修、舰队集火；详细武器系统（FG-302火炮、SG-330B近防火炮）、强化槽（武器、装甲等）、单发伤害30/15、防空特种弹药
 6,X20-大型工程舰,1星,工程舰,火炮,实弹,周期集火、反击防空,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,大型工程舰
 7,X8-小型工程舰,1星,工程舰/登陆舰,火炮,实弹,周期集火、反击防空,后排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,小型工程/登陆
 8,FG300型-侦察护卫舰,1星,护卫舰,火炮,实弹,快速输出,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,侦察型
@@ -30,6 +30,6 @@ ID,Ship_Name,Star_Rating,Type,Weapon_Type,Attack_Attribute,Key_Skills,Acquisitio
 29,XT-20级-载机巡洋舰,5星,巡洋舰,飞行器,未定,战略打击II、反击防空,后排,57510 (实战),50,10.0%,600,3000,37380,4670,2430,TBD,432,288,18,10,长度850米；仓储25000；性能对舰B/防空C/支援A/生存C/战略A；维修455/分钟；旗舰技战略打击II
 30,AC720-艾格勒姆未名者,6星,驱逐舰/英雄舰,火炮,实弹,舰队集火、新希望大救援、防空协助、机动规避、反击防空,中排,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,英雄舰；起源盘古拓展集团；特殊任务/肝取；高战略价值
 
-# 最终更新：Batch 2 全部完成，Batch 3 主要舰船 (CV-T800、XT-20系列) 已填充详细数值。AC720框架就绪。
-# 全部30艘舰船框架完整，关键数值已提取用于小说数据面板。
+# 继续提取剩余更新：新增 KCCPV2.0-轻型载机巡洋舰 (详细) 和 FG300型-装甲护卫舰 (非常详细，包括武器系统、强化槽、单发伤害等)。
+# 剩余 TBD 舰船（如其他 1星、部分 2星）可继续针对性提取。
 # 数据来源：无尽的拉格朗日 Wiki 单个舰船页面。

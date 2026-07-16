@@ -29,23 +29,28 @@ python scripts/enrich_ships_from_local.py
 ### 3. 目录结构
 ```
 guoyunkaituo/
-├── obsidian_vault/          # Obsidian 库（正文写作时打开这里）
-│   ├── 00-索引/
+├── obsidian_vault/          # Obsidian 库（打开这里）
+│   ├── 00-索引/             # MOC、迭代进度、来源规范
 │   ├── 01-世界观/
-│   ├── 02-国家阵营/各国/    # 50 国双链笔记
+│   ├── 02-国家阵营/各国/
 │   ├── 03-人物/
 │   ├── 04-舰船数据/
 │   ├── 05-资源经济/
-│   ├── 06-考核分卷/
+│   ├── 06-考核分卷/各星系/  # V01–V10 薄页
 │   ├── 07-万族战场/
-│   └── 08-写作辅助/
-├── data/                    # xlsx 追踪表
-├── wiki_data/               # CSV 舰船数据
-├── novel_mechanics/         # 小说机制说明
-├── celestial_knowledge/     # 天体/星系知识
-├── templates/               # 修科融合等模板
-└── scripts/                 # 生成与爬取脚本
+│   ├── 08-写作辅助/
+│   ├── 09-职业体系/         # 职业（迭代中）
+│   └── 10-背景通识/         # 含双轨评分
+├── data/                    # xlsx（含双轨评分说明 sheet）
+├── wiki_data/
+├── novel_mechanics/
+├── celestial_knowledge/
+├── templates/
+└── scripts/
 ```
+
+**双轨考核**：国运/领袖分（国家）+ 战友/编制分（个人）→ 见 vault `双轨评分逻辑`。  
+**迭代进度**：`obsidian_vault/00-索引/迭代进度.md`
 
 ## 小说硬设定（摘要）
 - **蓝星** 触达考核临界点 → **人联**（泛星际-人类联盟）拉入考核。

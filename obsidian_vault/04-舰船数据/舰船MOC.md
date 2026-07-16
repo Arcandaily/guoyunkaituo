@@ -6,9 +6,11 @@ tags: [舰船, MOC]
 
 ## 数据文件
 - 总表 CSV：`wiki_data/ships_index.csv`（星级/类型/势力/武器 等索引）
-- 详细属性：`wiki_data/ships_detail.csv`（结构值、装甲、航速、资源等，爬取可得则填）
+- 详细属性：`wiki_data/ships_detail.csv` / `ships_enriched.csv`
 - 未央样本：`wiki_data/未央公约组织_fleet.csv`
-- Excel：`data/舰船数据总表.xlsx`（若已生成）
+- Excel：`data/舰船数据总表.xlsx`
+- **分卷推荐**：[[分卷舰船推荐表]]
+- 索引列表：[[舰船索引列表]]
 
 ## Wiki 源
 - [舰船图鉴](https://wiki.biligame.com/wjdlglr/舰船图鉴)
